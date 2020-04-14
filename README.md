@@ -1,8 +1,8 @@
-# IPWK02
-#### Independent Project-2,  3,April,2020
+# IPWK03
+#### Independent Project-3,  13,April,2020
 #### By **RYAN ROTICH**
 ##
-This is a my independent project for week 2 containing a website which generates names of users from information of their birthday and gender to get their Akan name.
+This is a my independent project for week 3 containing Delani Studio which has jquery features and mailchimpAPI messages.It looks like a professional website.
 ## Setup/Installation Requirements
 * link from my website.
 * Fill in the form to display your Akan name.
