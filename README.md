@@ -1,5 +1,5 @@
-# IPWK04
-#### Independent Project-4,  19,April,2020
+# IPWK03
+#### Independent Project-3,  13,April,2020
 #### By **RYAN ROTICH**
 ##
 This is a my independent project for week 2 containing a website which generates names of users from information of their birthday and gender to get their Akan name.
