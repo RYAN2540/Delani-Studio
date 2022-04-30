@@ -1,5 +1,5 @@
-# IPWK03
-#### Independent Project-3,  13,April,2020
+# Delani Studio
+#### {13,April,2020}
 #### By **RYAN ROTICH**
 ##
 This is a my independent project for week 3 containing Delani Studio which has jquery features and mailchimpAPI messages.It looks like a professional website.
